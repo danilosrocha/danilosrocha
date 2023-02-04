@@ -1,7 +1,7 @@
 ### Hi, I'm Danilo Rocha 👋
 
 - 💻 I'm a Software Engineering student and Systems Analysis Development 
-- 📚 I’m currently learning Java and C++
+- 📚 I’m currently learning ReactJS and React Native
 
 
 <div align="center">
