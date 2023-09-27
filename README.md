@@ -1,6 +1,6 @@
 ### Hi, I'm Danilo Rocha 👋
 
-- 💻 I'm a Systems Analyst
+- 💻 I'm Fullstack Developer
 
 <div align="center">
   <a href="https://github.com/danilosrocha" target="_blank" rel="noopener noreferrer" </a>
