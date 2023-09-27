@@ -1,8 +1,6 @@
 ### Hi, I'm Danilo Rocha 👋
 
-- 💻 I'm a Software Engineering student and Systems Analysis Development 
-- 📚 I’m currently learning ReactJS and React Native
-
+- 💻 I'm a Systems Analyst
 
 <div align="center">
   <a href="https://github.com/danilosrocha" target="_blank" rel="noopener noreferrer" </a>
